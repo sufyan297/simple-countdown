@@ -147,7 +147,7 @@
 /* SPECIFIC DEMO STYLE */
 
 /* DEMO 2 */
-@font-face {
+/* @font-face {
     font-family: 'adam';
     src: url('../fonts/adam/adam.eot');
     src: url('../fonts/adam/adamd41d.eot?#iefix') format('embedded-opentype'),
@@ -157,7 +157,7 @@
          url('../fonts/adam/adam.svg#adam.cg_proregular') format('svg');
     font-weight: normal;
     font-style: normal;
-}
+} */
 
 .demo-2 {
   background: url(../img/building-sprite.png) no-repeat -9999px -9999px;
@@ -185,7 +185,7 @@
 }
 
 .demo-2 .page-view .project:nth-child(2) {
-  background-image: url(../img/b2.jpeg);
+  background-image: url(../img/bg2.png);
 }
 
 .demo-2 .page-view .project:nth-child(3) {
